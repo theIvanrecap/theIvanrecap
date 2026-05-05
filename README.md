@@ -13,7 +13,7 @@
 <td align="left">
 
 <pre>
-── .✦   <a href="mailto:sstarryfo@gmail.com">mail</a>     <a href="https://theivanrecap.atabook.org">ata</a>     <a href="#">sp</a>     <a href="#">rentry</a>  ✦. ── 
+── .✦   <a href="mailto:sstarryfo@gmail.com">mail</a>     <a href="https://theivanrecap.atabook.org">ata</a>     <a href="#">zero</a>     <a href="#">zero</a>  ✦. ── 
 
   ಄ if accepted in DC, let's play!
        would love moots and friends!
