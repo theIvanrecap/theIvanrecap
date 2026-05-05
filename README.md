@@ -1,25 +1,32 @@
 <div align="center"">
 ಄ Hello, hello ~
 
-<div align="center">
-<table>
-  <table>
-<tr>
 <!-- LEFT IMAGE -->
-<td>
-<img src="https://media1.tenor.com/m/7zQKJZtTyEwAAAAd/genshin-impact-kyryll-chudomirovich-flins.gif" width="400"/>
+<div style="display:inline-block; vertical-align:middle;">
+  <img src="https://media1.tenor.com/m/7zQKJZtTyEwAAAAd/genshin-impact-kyryll-chudomirovich-flins.gif" width="400"/>
+</div>
+
+<!-- SPACE --> 
+<div style="display:inline-block; width:30em;">
+</div>
 
 <!-- RIGHT TEXT -->
-<td align="left">
+<div style="display:inline-block; text-align:left; vertical-align:middle;">
 
 <pre>
 ── .✦   <a href="mailto:sstarryfo@gmail.com">mail</a>     <a href="https://theivanrecap.atabook.org">ata</a>     <a href="#">zero</a>     <a href="#">zero</a>  ✦. ── 
 
-  ಄ if accepted in DC, let's play!
-       would love moots and friends!
+  ────୨ৎ────
+಄ D'name's Ivan/van/v ಄
+  17 years old! -- taken~
 
-  ಄ fav games: 
-       Pony town     Genshin     Roblox  
+಄ fav games ಄
+  Pony town     Genshin     Roblox  
+  
+಄ prob will accept in DC, moots and friends! ಄
+  ────୨ৎ────
+
+── .✦  the end  ✦. ── 
 </pre>
 
 <br>
@@ -32,5 +39,8 @@
 </table>
 
 </div>
-✦ Credits
-Made with ♡ by theivanrecap!
+✦
+<div>
+  Made with ♡ by ivan!
+</div>
+
