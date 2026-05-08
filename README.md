@@ -14,7 +14,7 @@
 <div style="display:inline-block; text-align:left; vertical-align:middle;">
 
 <pre>
-── .✦   <a href="mailto:sstarryfo@gmail.com">mail</a>     <a href="https://theivanrecap.atabook.org">ata</a>     <a href="https://theivanrecap.carrd.co/">Intro</a>     <a href= "https://haunt.gg/theivanrecap">pfp</a>     <a href= "https://theivanrecap.straw.page">straw</a>   ✦. ── 
+── .✦   <a href="mailto:sstarryfo@gmail.com">mail</a>     <a href="https://theivanrecap.atabook.org">ata</a>     <a href="https://theivanrecap.carrd.co/">Intro</a>     <a href= "https://haunt.gg/theivanrecap">pfp</a>     <a href= "https://theivanrecap2.straw.page">straw</a>   ✦. ── 
 
   ────୨ৎ────
 ಄ D'name's Ivan/van/v ಄
