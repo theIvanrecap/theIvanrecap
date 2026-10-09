@@ -17,7 +17,7 @@
 ── .✦   <a href="mailto:sstarryfo@gmail.com">mail</a>     <a href="https://theivanrecap.atabook.org">ata</a>     <a href="https://theivanrecap.carrd.co/">Intro</a>     <a href= "https://guns.lol/theivanrecap">pfp</a>     <a href= "https://theivanrecap2.straw.page">straw</a>   ✦. ── 
 
   ────୨ৎ────
-಄ D'name's Ivan/van/v ಄
+಄ D'name's Ivan/van/v/Voika ಄
   17 years old! -- taken~
 
 ಄ fav games ಄
